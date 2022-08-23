@@ -25,6 +25,8 @@ description: |
   поддержкой друзей и как рассчитать свои силы, чтобы их хватило до
   конца путешествия, на что нужно обращать внимание в дороге и где
   прекрасные виды — об этом и многом другом я расскажу в книге.</p>
+  <p><a href="https://www.litres.ru/konstantin-morenko/kak-napisat-knigu/">ЛитРес</a>
+     <a href="https://ridero.ru/books/kak_napisat_knigu_2/">Ridero</a></p>
 	</div>
   </div>
   <div class="card">
@@ -40,6 +42,8 @@ description: |
     по полочкам отдельные шаги, которые ведут к успешному развитию
     привычек.  Книга станет вашим надежным спутником на пути понимания и
     использования этой фантастической силы — привычки.</p>
+  <p><a href="https://www.litres.ru/konstantin-morenko/razvit-privychku/">ЛитРес</a>
+     <a href="https://ridero.ru/books/razvit_privychku/">Ridero</a></p>
 	</div>
   </div>
 </div>
